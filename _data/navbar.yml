@@ -37,5 +37,5 @@
 - name: 教育
   link: /education/
 
-- name: 文件下载
-  link: /download/
+#- name: 文件下载
+  #link: /download/

@@ -1,9 +1,9 @@
 # site scope vars
 timezone: Asia/Shanghai
 
-title: 一个专题网站的例子
-title_en: Some Site
-email: someone@some.com
+title: 放心玩偶
+title_en: 护卫出行安全的紧急定位装置
+email: 1594744173@qq.com
 baseurl: ""
 
 # 构建时排除的文件
