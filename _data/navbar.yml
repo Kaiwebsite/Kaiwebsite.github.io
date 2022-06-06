@@ -4,37 +4,37 @@
 - name: 简介
   link: /about/
   sublinks:
-    - name: 网站简介
-      link: /about/lab_ntroduction/
+    - name: 项目简介
+      link: /about/pro_ntroduction/
 
     - name: 机构设置
       link: /about/organizational_structure/
 
-    - name: 科研人员
+    - name: 项目成员
       link: /about/researchers/
 
-- name: 科学研究
-  link: /science/
+- name: 产品
+  link: /product/
   sublinks:
-    - name: 科研方向
-      link: /science/research_direction/
+    - name: 小象IP
+      link: /product/research_direction/
 
-    - name: 科研项目
-      link: /science/research_projects/
+    - name: 定位玩偶
+      link: /product/research_projects/
 
-- name: 新闻
+- name: 安全教育
   link: /news/
   sublinks:
-    - name: 动态
+    - name: 文章
       link: /news/news/
 
-    - name: 通知
+    - name: 动态
       link: /news/notification_announcements/
 
 - name: 创新
   link: /innovation/
 
-- name: 教育
+- name: 引领教育
   link: /education/
 
 #- name: 文件下载
